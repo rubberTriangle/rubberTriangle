@@ -7,10 +7,10 @@
 ## Estudiante de Ingeniería Informática del Software
 
 <p align="left">
-  Soy un estudiante de **Ingeniería Informática del Software** en la **Universidad de Extremadura (UEx)**, apasionado por la tecnología y la resolución de problemas.
+  Soy un estudiante de <strong>Ingeniería Informática del Software</strong> en la <strong>Universidad de Extremadura (UEx)</strong>, apasionado por la tecnología y la resolución de problemas.
 </p>
 <p align="left">
-  Estoy construyendo una base sólida en el desarrollo de software y, actualmente, estoy comenzando a explorar el fascinante mundo de la **Ciberseguridad**.
+  Estoy construyendo una base sólida en el desarrollo de software y, actualmente, estoy comenzando a explorar el fascinante mundo de la <strong>Ciberseguridad</strong>.
 </p>
 
 ---
