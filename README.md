@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggA3TstzK/giphy.gif" alt="Programación y Código Animado" width="600px">
+  <img src="https://github.com/rubberTriangle/rubberTriangle/blob/main/200.webp" alt="Programación y Código Animado" width="600px">
 </p>
 
 # ¡Hola! Soy rubberTriangle 👋
