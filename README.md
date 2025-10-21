@@ -62,6 +62,6 @@ Estas son algunas de las tecnologías con las que he trabajado:
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-DE-GITHUB]&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de [Tu Nombre]" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO-DE-GITHUB]&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubberTriangle&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de rubberTriangle" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberTriangle&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
