@@ -2,8 +2,6 @@
   <img src="https://github.com/rubberTriangle/rubberTriangle/blob/main/200.webp" alt="Programación y Código Animado" width="600px">
 </p>
 
-# ¡Hola! Soy rubberTriangle 👋
-
 ## Estudiante de Ingeniería Informática del Software
 
 <p align="left">
