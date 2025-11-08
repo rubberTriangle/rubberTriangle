@@ -1,7 +1,20 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi, I'm rubberTriangle</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
 <p align="center">
   <img src="https://github.com/rubberTriangle/rubberTriangle/blob/main/200.webp" alt="Programación y Código Animado" width="600px">
 </p>
 
+<!--Intro start-->
 ## Estudiante de Ingeniería Informática del Software
 
 <p align="left">
@@ -11,55 +24,58 @@
   Estoy construyendo una base sólida en el desarrollo de software y, actualmente, estoy comenzando a explorar el fascinante mundo de la <strong>Ciberseguridad</strong>.
 </p>
 
----
-
-### 💻 Mi Stack de Tecnologías
-
-Estas son algunas de las tecnologías con las que he trabajado:
-
-<p align="left">
-  <strong>Lenguajes Fundamentales:</strong><br>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  </a>
-  <br><br>
-  <strong>Desarrollo Web:</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-</p>
-
----
-
-### 🌱 Actualmente Aprendiendo
-
 <p align="left">
   Estoy enfocado en expandir mis habilidades en <strong>Ciberseguridad</strong>, explorando conceptos como:
 </p>
+<!--Intro end-->
 
-<ul>
-  <li>Seguridad en Redes y Sistemas</li>
-  <li>Análisis de Vulnerabilidades</li>
-  <li>Pentesting (Ethical Hacking)</li>
-</ul>
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubberTriangle&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de rubberTriangle" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubberTriangle&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rubberTriangle&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rubberTriangle&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rubberTriangle&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
 </p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
